@@ -1,17 +1,20 @@
+VARIANTS = Regular Bold
+
 all: ttf otf dfont bdf psf
 
 clean:
 	rm -rf out/*
 
-ttf: out/Ströbröd-ttf/Ströbröd-Regular.ttf out/Ströbröd-ttf/Ströbröd-Bold.ttf
+ttf: $(foreach V, $(VARIANTS), out/Ströbröd-ttf/Ströbröd-$(V).ttf)
 
-otf: out/Ströbröd-otf/Ströbröd-Regular.otf out/Ströbröd-otf/Ströbröd-Bold.otf
+otf: $(foreach V, $(VARIANTS), out/Ströbröd-otf/Ströbröd-$(V).otf)
 
-dfont: out/Ströbröd-dfont/Ströbröd-Regular.dfont out/Ströbröd-dfont/Ströbröd-Bold.dfont
+dfont: $(foreach V, $(VARIANTS), out/Ströbröd-dfont/Ströbröd-$(V).dfont)
 
-bdf: out/Ströbröd-bdf/Ströbröd-Regular-10.bdf out/Ströbröd-bdf/Ströbröd-Bold-10.bdf
+bdf: $(foreach V, $(VARIANTS), out/Ströbröd-bdf/Ströbröd-$(V)-10.bdf)
 
-psf: bdf out/Ströbröd-psf/Ströbröd-Regular.psf out/Ströbröd-psf/Ströbröd-Bold.psf
+psf: bdf $(foreach V, $(VARIANTS), out/Ströbröd-psf/Ströbröd-$(V).psf)
+
 
 out/Ströbröd-ttf/%.ttf: %.sfd export.py
 	fontforge -script export.py $< $@
