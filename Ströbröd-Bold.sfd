@@ -25,7 +25,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490615230
-ModificationTime: 1495916653
+ModificationTime: 1495917379
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
@@ -36,7 +36,7 @@ OS2TypoAscent: 800
 OS2TypoAOffset: 0
 OS2TypoDescent: -200
 OS2TypoDOffset: 0
-OS2TypoLinegap: 0
+OS2TypoLinegap: -536
 OS2WinAscent: 800
 OS2WinAOffset: 0
 OS2WinDescent: 200
