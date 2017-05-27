@@ -4382,7 +4382,7 @@ StartChar: k
 Encoding: 107 107 75
 Width: 600
 VWidth: 0
-Flags: W
+Flags: WO
 LayerCount: 2
 Back
 Image: 4 7 0 1 2 0 104.167 729.167 104.167 104.167 0
