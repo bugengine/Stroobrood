@@ -25,7 +25,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490615230
-ModificationTime: 1495891264
+ModificationTime: 1495891450
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -7131,37 +7131,37 @@ mHj.hJ:Jb=+CL:mn;r_3
 EndImage
 Fore
 SplineSet
-2 8 m 25xd9
- 3 8 l 1xd9
- 3 9 l 1
- 4 9 l 1xc480
- 4 8 l 1xc880
- 3 8 l 25
- 3 7 l 25xc9
- 4 7 l 25
- 4 8 l 25xc880
- 5 8 l 25
- 5 7 l 25xc840
- 4 7 l 1xc880
- 4 5 l 1xe840
- 2 5 l 1xd240
+2 7 m 29xd9
+ 3 7 l 5xd9
+ 3 8 l 5
+ 4 8 l 5xc480
+ 4 7 l 5xc880
+ 3 7 l 29
+ 3 6 l 29xc9
+ 4 6 l 29
+ 4 7 l 29xc880
+ 5 7 l 29
+ 5 6 l 29xc840
+ 4 6 l 5xc880
+ 4 4 l 5xe840
+ 2 4 l 5xd240
  2 3 l 1
  4 3 l 1
- 4 5 l 1
- 5 5 l 5xe240
+ 4 4 l 5
+ 5 4 l 5xe240
  5 0 l 1
  4 0 l 25
  4 2 l 25
  2 2 l 25
  2 0 l 25
  1 0 l 1
- 1 5 l 1
- 2 5 l 1xd240
- 2 6 l 1xd1
- 3 6 l 25xd080
- 3 7 l 25
- 2 7 l 25
- 2 8 l 25xd9
+ 1 4 l 5
+ 2 4 l 5xd240
+ 2 5 l 5xd1
+ 3 5 l 29xd080
+ 3 6 l 29
+ 2 6 l 29
+ 2 7 l 29xd9
 EndSplineSet
 EndChar
 
