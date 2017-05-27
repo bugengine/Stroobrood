@@ -8,7 +8,7 @@ UComments: "2017-3-27: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 StrokeWidth: 614
 ItalicAngle: 0
-UnderlinePosition: -102.4
+UnderlinePosition: -102
 UnderlineWidth: 0
 Ascent: 819
 Descent: 205
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490615230
-ModificationTime: 1495627892
+ModificationTime: 1495885481
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
