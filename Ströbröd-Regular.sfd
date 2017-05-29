@@ -17,24 +17,26 @@ Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 HasVMetrics: 1
 XUID: [1021 68 1269985762 5678229]
+BaseHoriz: 1 'romn'
+BaseScript: 'latn' 0  0 { 'latn' -192 768}
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490615230
-ModificationTime: 1495998822
+ModificationTime: 1496063243
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: -480
-VLineGap: -480
+LineGap: 0
+VLineGap: 0
 Panose: 2 11 5 9 0 0 0 0 0 0
 OS2TypoAscent: 768
 OS2TypoAOffset: 0
 OS2TypoDescent: -192
 OS2TypoDOffset: 0
-OS2TypoLinegap: -480
+OS2TypoLinegap: 0
 OS2WinAscent: 768
 OS2WinAOffset: 0
 OS2WinDescent: 192
@@ -12586,7 +12588,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 10 547 8 2 1
+BitmapFont: 10 548 8 2 1
 BDFChar: 0 65536 6 1 5 0 8 16
 pkX`^LkpkCp](9o
 BDFChar: 1 0 6 0 0 0 0 0
