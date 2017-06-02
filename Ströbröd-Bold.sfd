@@ -25,8 +25,8 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490615230
-ModificationTime: 1496432000
-PfmFamily: 17
+ModificationTime: 1496434633
+PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
@@ -36,7 +36,7 @@ OS2TypoAscent: 768
 OS2TypoAOffset: 0
 OS2TypoDescent: -192
 OS2TypoDOffset: 0
-OS2TypoLinegap: -480
+OS2TypoLinegap: -96
 OS2WinAscent: 768
 OS2WinAOffset: 0
 OS2WinDescent: 192
@@ -100,7 +100,7 @@ BeginChars: 65539 546
 
 StartChar: .notdef
 Encoding: 65536 -1 0
-Width: 561
+Width: 576
 VWidth: 1536
 Flags: W
 TtInstrs:
@@ -537,7 +537,7 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 37
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -589,7 +589,7 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 38
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -910,7 +910,7 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 49
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -950,7 +950,7 @@ EndChar
 
 StartChar: one
 Encoding: 49 49 50
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -972,7 +972,7 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 51
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1014,7 +1014,7 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 52
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1051,7 +1051,7 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 53
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1085,7 +1085,7 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 54
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1119,7 +1119,7 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 55
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1158,7 +1158,7 @@ EndChar
 
 StartChar: seven
 Encoding: 55 55 56
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1189,7 +1189,7 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 57
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1239,7 +1239,7 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 58
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1511,7 +1511,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 66
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1545,7 +1545,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 67
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1583,7 +1583,7 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 68
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1611,7 +1611,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 69
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1638,7 +1638,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 70
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1666,7 +1666,7 @@ EndChar
 
 StartChar: F
 Encoding: 70 70 71
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1691,7 +1691,7 @@ EndChar
 
 StartChar: G
 Encoding: 71 71 72
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1722,7 +1722,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 73
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1750,7 +1750,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 74
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1766,7 +1766,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 75
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1788,7 +1788,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 76
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1830,7 +1830,7 @@ EndChar
 
 StartChar: L
 Encoding: 76 76 77
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1849,7 +1849,7 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 78
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1881,7 +1881,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 79
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1914,7 +1914,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 80
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1947,7 +1947,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 81
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1977,7 +1977,7 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 82
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2018,7 +2018,7 @@ EndChar
 
 StartChar: R
 Encoding: 82 82 83
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2053,7 +2053,7 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 84
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2093,7 +2093,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 85
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2115,7 +2115,7 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 86
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2140,7 +2140,7 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 87
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2170,7 +2170,7 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 88
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2203,7 +2203,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 89
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2241,7 +2241,7 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 90
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2279,7 +2279,7 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 91
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2467,7 +2467,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 98
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2502,7 +2502,7 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 99
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2533,7 +2533,7 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 100
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2561,7 +2561,7 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 101
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2591,7 +2591,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 102
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2628,7 +2628,7 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 103
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2658,7 +2658,7 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 104
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2694,7 +2694,7 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 105
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2721,7 +2721,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 106
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2742,7 +2742,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 107
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2769,7 +2769,7 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 108
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2811,7 +2811,7 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 109
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2833,7 +2833,7 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 110
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2863,7 +2863,7 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 111
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2887,7 +2887,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 112
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2920,7 +2920,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 113
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2950,7 +2950,7 @@ EndChar
 
 StartChar: q
 Encoding: 113 113 114
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -2980,7 +2980,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 115
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3002,7 +3002,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 116
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3042,7 +3042,7 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 117
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3071,7 +3071,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 118
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3095,7 +3095,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 119
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3122,7 +3122,7 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 120
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3153,7 +3153,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 121
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3191,7 +3191,7 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 122
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3224,7 +3224,7 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 123
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3706,7 +3706,7 @@ EndChar
 
 StartChar: Scaron
 Encoding: 352 352 167
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3722,7 +3722,7 @@ EndChar
 
 StartChar: scaron
 Encoding: 353 353 169
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3818,7 +3818,7 @@ EndChar
 
 StartChar: Zcaron
 Encoding: 381 381 181
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3850,7 +3850,7 @@ EndChar
 
 StartChar: zcaron
 Encoding: 382 382 185
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3882,7 +3882,7 @@ EndChar
 
 StartChar: OE
 Encoding: 338 338 189
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3890,7 +3890,7 @@ EndChar
 
 StartChar: oe
 Encoding: 339 339 190
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3898,7 +3898,7 @@ EndChar
 
 StartChar: Ydieresis
 Encoding: 376 376 191
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3947,7 +3947,7 @@ EndChar
 
 StartChar: Agrave
 Encoding: 192 192 193
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -3991,7 +3991,7 @@ EndChar
 
 StartChar: Aacute
 Encoding: 193 193 194
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4035,7 +4035,7 @@ EndChar
 
 StartChar: Acircumflex
 Encoding: 194 194 195
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4084,7 +4084,7 @@ EndChar
 
 StartChar: Atilde
 Encoding: 195 195 196
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4143,7 +4143,7 @@ EndChar
 
 StartChar: null.dup1
 Encoding: 196 196 197
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4187,7 +4187,7 @@ EndChar
 
 StartChar: Aring
 Encoding: 197 197 198
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4239,7 +4239,7 @@ EndChar
 
 StartChar: AE
 Encoding: 198 198 199
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4283,7 +4283,7 @@ EndChar
 
 StartChar: Ccedilla
 Encoding: 199 199 200
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4321,7 +4321,7 @@ EndChar
 
 StartChar: Egrave
 Encoding: 200 200 201
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4359,7 +4359,7 @@ EndChar
 
 StartChar: Eacute
 Encoding: 201 201 202
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4398,7 +4398,7 @@ EndChar
 
 StartChar: Ecircumflex
 Encoding: 202 202 203
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4441,7 +4441,7 @@ EndChar
 
 StartChar: Edieresis
 Encoding: 203 203 204
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4479,7 +4479,7 @@ EndChar
 
 StartChar: Igrave
 Encoding: 204 204 205
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4505,7 +4505,7 @@ EndChar
 
 StartChar: Iacute
 Encoding: 205 205 206
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4531,7 +4531,7 @@ EndChar
 
 StartChar: Icircumflex
 Encoding: 206 206 207
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4562,7 +4562,7 @@ EndChar
 
 StartChar: Idieresis
 Encoding: 207 207 208
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4588,7 +4588,7 @@ EndChar
 
 StartChar: Eth
 Encoding: 208 208 209
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4627,7 +4627,7 @@ EndChar
 
 StartChar: Ntilde
 Encoding: 209 209 210
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4680,7 +4680,7 @@ EndChar
 
 StartChar: Ograve
 Encoding: 210 210 211
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4723,7 +4723,7 @@ EndChar
 
 StartChar: Oacute
 Encoding: 211 211 212
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4766,7 +4766,7 @@ EndChar
 
 StartChar: Ocircumflex
 Encoding: 212 212 213
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4814,7 +4814,7 @@ EndChar
 
 StartChar: Otilde
 Encoding: 213 213 214
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4867,7 +4867,7 @@ EndChar
 
 StartChar: Odieresis
 Encoding: 214 214 215
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4910,7 +4910,7 @@ EndChar
 
 StartChar: multiply
 Encoding: 215 215 216
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4946,7 +4946,7 @@ EndChar
 
 StartChar: Oslash
 Encoding: 216 216 217
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -4996,7 +4996,7 @@ EndChar
 
 StartChar: Ugrave
 Encoding: 217 217 218
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5031,7 +5031,7 @@ EndChar
 
 StartChar: Uacute
 Encoding: 218 218 219
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5066,7 +5066,7 @@ EndChar
 
 StartChar: Ucircumflex
 Encoding: 219 219 220
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5106,7 +5106,7 @@ EndChar
 
 StartChar: Udieresis
 Encoding: 220 220 221
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5141,7 +5141,7 @@ EndChar
 
 StartChar: Yacute
 Encoding: 221 221 222
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5189,7 +5189,7 @@ EndChar
 
 StartChar: Thorn
 Encoding: 222 222 223
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5222,7 +5222,7 @@ EndChar
 
 StartChar: germandbls
 Encoding: 223 223 224
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5257,7 +5257,7 @@ EndChar
 
 StartChar: agrave
 Encoding: 224 224 225
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5302,7 +5302,7 @@ EndChar
 
 StartChar: aacute
 Encoding: 225 225 226
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5347,7 +5347,7 @@ EndChar
 
 StartChar: acircumflex
 Encoding: 226 226 227
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5397,7 +5397,7 @@ EndChar
 
 StartChar: atilde
 Encoding: 227 227 228
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5452,7 +5452,7 @@ EndChar
 
 StartChar: adieresis
 Encoding: 228 228 229
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5497,7 +5497,7 @@ EndChar
 
 StartChar: aring
 Encoding: 229 229 230
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5552,7 +5552,7 @@ EndChar
 
 StartChar: ae
 Encoding: 230 230 231
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5605,7 +5605,7 @@ EndChar
 
 StartChar: ccedilla
 Encoding: 231 231 232
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5643,7 +5643,7 @@ EndChar
 
 StartChar: egrave
 Encoding: 232 232 233
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5690,7 +5690,7 @@ EndChar
 
 StartChar: eacute
 Encoding: 233 233 234
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5737,7 +5737,7 @@ EndChar
 
 StartChar: ecircumflex
 Encoding: 234 234 235
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5789,7 +5789,7 @@ EndChar
 
 StartChar: edieresis
 Encoding: 235 235 236
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5836,7 +5836,7 @@ EndChar
 
 StartChar: igrave
 Encoding: 236 236 237
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5862,7 +5862,7 @@ EndChar
 
 StartChar: iacute
 Encoding: 237 237 238
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5888,7 +5888,7 @@ EndChar
 
 StartChar: icircumflex
 Encoding: 238 238 239
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5919,7 +5919,7 @@ EndChar
 
 StartChar: idieresis
 Encoding: 239 239 240
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5945,7 +5945,7 @@ EndChar
 
 StartChar: eth
 Encoding: 240 240 241
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5992,7 +5992,7 @@ EndChar
 
 StartChar: ntilde
 Encoding: 241 241 242
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6036,7 +6036,7 @@ EndChar
 
 StartChar: ograve
 Encoding: 242 242 243
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6079,7 +6079,7 @@ EndChar
 
 StartChar: oacute
 Encoding: 243 243 244
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6122,7 +6122,7 @@ EndChar
 
 StartChar: ocircumflex
 Encoding: 244 244 245
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6170,7 +6170,7 @@ EndChar
 
 StartChar: otilde
 Encoding: 245 245 246
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6223,7 +6223,7 @@ EndChar
 
 StartChar: odieresis
 Encoding: 246 246 247
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6266,7 +6266,7 @@ EndChar
 
 StartChar: divide
 Encoding: 247 247 248
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6292,7 +6292,7 @@ EndChar
 
 StartChar: oslash
 Encoding: 248 248 249
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6342,7 +6342,7 @@ EndChar
 
 StartChar: ugrave
 Encoding: 249 249 250
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6376,7 +6376,7 @@ EndChar
 
 StartChar: uacute
 Encoding: 250 250 251
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6410,7 +6410,7 @@ EndChar
 
 StartChar: ucircumflex
 Encoding: 251 251 252
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6449,7 +6449,7 @@ EndChar
 
 StartChar: udieresis
 Encoding: 252 252 253
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6483,7 +6483,7 @@ EndChar
 
 StartChar: yacute
 Encoding: 253 253 254
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6526,7 +6526,7 @@ EndChar
 
 StartChar: thorn
 Encoding: 254 254 255
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6559,7 +6559,7 @@ EndChar
 
 StartChar: ydieresis
 Encoding: 255 255 256
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6933,7 +6933,7 @@ EndChar
 
 StartChar: uni018C
 Encoding: 396 396 265
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6941,7 +6941,7 @@ EndChar
 
 StartChar: Amacron
 Encoding: 256 256 266
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6949,7 +6949,7 @@ EndChar
 
 StartChar: amacron
 Encoding: 257 257 267
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6957,7 +6957,7 @@ EndChar
 
 StartChar: Abreve
 Encoding: 258 258 268
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6965,7 +6965,7 @@ EndChar
 
 StartChar: abreve
 Encoding: 259 259 269
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6973,7 +6973,7 @@ EndChar
 
 StartChar: Aogonek
 Encoding: 260 260 270
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6981,7 +6981,7 @@ EndChar
 
 StartChar: uni0185
 Encoding: 389 389 271
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6989,7 +6989,7 @@ EndChar
 
 StartChar: uni0186
 Encoding: 390 390 272
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -6997,7 +6997,7 @@ EndChar
 
 StartChar: uni0187
 Encoding: 391 391 273
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7005,7 +7005,7 @@ EndChar
 
 StartChar: uni0188
 Encoding: 392 392 274
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7013,7 +7013,7 @@ EndChar
 
 StartChar: uni0189
 Encoding: 393 393 275
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7021,7 +7021,7 @@ EndChar
 
 StartChar: uni018A
 Encoding: 394 394 276
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7029,7 +7029,7 @@ EndChar
 
 StartChar: uni018E
 Encoding: 398 398 277
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7037,7 +7037,7 @@ EndChar
 
 StartChar: uni018D
 Encoding: 397 397 278
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7045,7 +7045,7 @@ EndChar
 
 StartChar: aogonek
 Encoding: 261 261 279
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7053,7 +7053,7 @@ EndChar
 
 StartChar: Cacute
 Encoding: 262 262 280
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7061,7 +7061,7 @@ EndChar
 
 StartChar: cacute
 Encoding: 263 263 281
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7069,7 +7069,7 @@ EndChar
 
 StartChar: Ccircumflex
 Encoding: 264 264 282
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7077,7 +7077,7 @@ EndChar
 
 StartChar: ccircumflex
 Encoding: 265 265 283
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7085,7 +7085,7 @@ EndChar
 
 StartChar: Cdotaccent
 Encoding: 266 266 284
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7093,7 +7093,7 @@ EndChar
 
 StartChar: cdotaccent
 Encoding: 267 267 285
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7101,7 +7101,7 @@ EndChar
 
 StartChar: Ccaron
 Encoding: 268 268 286
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7109,7 +7109,7 @@ EndChar
 
 StartChar: ccaron
 Encoding: 269 269 287
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7117,7 +7117,7 @@ EndChar
 
 StartChar: Dcaron
 Encoding: 270 270 288
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7125,7 +7125,7 @@ EndChar
 
 StartChar: dcaron
 Encoding: 271 271 289
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7133,7 +7133,7 @@ EndChar
 
 StartChar: Dcroat
 Encoding: 272 272 290
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7141,7 +7141,7 @@ EndChar
 
 StartChar: dcroat
 Encoding: 273 273 291
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7149,7 +7149,7 @@ EndChar
 
 StartChar: Emacron
 Encoding: 274 274 292
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7157,7 +7157,7 @@ EndChar
 
 StartChar: emacron
 Encoding: 275 275 293
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7165,7 +7165,7 @@ EndChar
 
 StartChar: Ebreve
 Encoding: 276 276 294
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7173,7 +7173,7 @@ EndChar
 
 StartChar: ebreve
 Encoding: 277 277 295
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7181,7 +7181,7 @@ EndChar
 
 StartChar: Edotaccent
 Encoding: 278 278 296
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7189,7 +7189,7 @@ EndChar
 
 StartChar: edotaccent
 Encoding: 279 279 297
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7197,7 +7197,7 @@ EndChar
 
 StartChar: Eogonek
 Encoding: 280 280 298
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7205,7 +7205,7 @@ EndChar
 
 StartChar: eogonek
 Encoding: 281 281 299
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7213,7 +7213,7 @@ EndChar
 
 StartChar: Ecaron
 Encoding: 282 282 300
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7221,7 +7221,7 @@ EndChar
 
 StartChar: ecaron
 Encoding: 283 283 301
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7229,7 +7229,7 @@ EndChar
 
 StartChar: Gcircumflex
 Encoding: 284 284 302
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7237,7 +7237,7 @@ EndChar
 
 StartChar: gcircumflex
 Encoding: 285 285 303
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7245,7 +7245,7 @@ EndChar
 
 StartChar: Gbreve
 Encoding: 286 286 304
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7253,7 +7253,7 @@ EndChar
 
 StartChar: gbreve
 Encoding: 287 287 305
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7261,7 +7261,7 @@ EndChar
 
 StartChar: Gdotaccent
 Encoding: 288 288 306
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7269,7 +7269,7 @@ EndChar
 
 StartChar: gdotaccent
 Encoding: 289 289 307
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7277,7 +7277,7 @@ EndChar
 
 StartChar: uni0122
 Encoding: 290 290 308
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7285,7 +7285,7 @@ EndChar
 
 StartChar: uni0123
 Encoding: 291 291 309
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7293,7 +7293,7 @@ EndChar
 
 StartChar: Hcircumflex
 Encoding: 292 292 310
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7301,7 +7301,7 @@ EndChar
 
 StartChar: hcircumflex
 Encoding: 293 293 311
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7309,7 +7309,7 @@ EndChar
 
 StartChar: Hbar
 Encoding: 294 294 312
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7317,7 +7317,7 @@ EndChar
 
 StartChar: hbar
 Encoding: 295 295 313
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7325,7 +7325,7 @@ EndChar
 
 StartChar: Itilde
 Encoding: 296 296 314
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7333,7 +7333,7 @@ EndChar
 
 StartChar: itilde
 Encoding: 297 297 315
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7341,7 +7341,7 @@ EndChar
 
 StartChar: Imacron
 Encoding: 298 298 316
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7349,7 +7349,7 @@ EndChar
 
 StartChar: imacron
 Encoding: 299 299 317
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7357,7 +7357,7 @@ EndChar
 
 StartChar: Ibreve
 Encoding: 300 300 318
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7365,7 +7365,7 @@ EndChar
 
 StartChar: ibreve
 Encoding: 301 301 319
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7373,7 +7373,7 @@ EndChar
 
 StartChar: Iogonek
 Encoding: 302 302 320
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7381,7 +7381,7 @@ EndChar
 
 StartChar: iogonek
 Encoding: 303 303 321
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7389,7 +7389,7 @@ EndChar
 
 StartChar: Idotaccent
 Encoding: 304 304 322
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7397,7 +7397,7 @@ EndChar
 
 StartChar: dotlessi
 Encoding: 305 305 323
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7405,7 +7405,7 @@ EndChar
 
 StartChar: IJ
 Encoding: 306 306 324
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7413,7 +7413,7 @@ EndChar
 
 StartChar: ij
 Encoding: 307 307 325
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7421,7 +7421,7 @@ EndChar
 
 StartChar: Jcircumflex
 Encoding: 308 308 326
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7429,7 +7429,7 @@ EndChar
 
 StartChar: jcircumflex
 Encoding: 309 309 327
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7437,7 +7437,7 @@ EndChar
 
 StartChar: uni0136
 Encoding: 310 310 328
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7445,7 +7445,7 @@ EndChar
 
 StartChar: uni0137
 Encoding: 311 311 329
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7453,7 +7453,7 @@ EndChar
 
 StartChar: kgreenlandic
 Encoding: 312 312 330
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7461,7 +7461,7 @@ EndChar
 
 StartChar: Lacute
 Encoding: 313 313 331
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7469,7 +7469,7 @@ EndChar
 
 StartChar: lacute
 Encoding: 314 314 332
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7477,7 +7477,7 @@ EndChar
 
 StartChar: uni013B
 Encoding: 315 315 333
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7485,7 +7485,7 @@ EndChar
 
 StartChar: uni013C
 Encoding: 316 316 334
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7493,7 +7493,7 @@ EndChar
 
 StartChar: Lcaron
 Encoding: 317 317 335
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7501,7 +7501,7 @@ EndChar
 
 StartChar: lcaron
 Encoding: 318 318 336
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7509,7 +7509,7 @@ EndChar
 
 StartChar: Ldot
 Encoding: 319 319 337
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7517,7 +7517,7 @@ EndChar
 
 StartChar: ldot
 Encoding: 320 320 338
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7525,7 +7525,7 @@ EndChar
 
 StartChar: Lslash
 Encoding: 321 321 339
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7533,7 +7533,7 @@ EndChar
 
 StartChar: lslash
 Encoding: 322 322 340
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7541,7 +7541,7 @@ EndChar
 
 StartChar: Nacute
 Encoding: 323 323 341
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7549,7 +7549,7 @@ EndChar
 
 StartChar: nacute
 Encoding: 324 324 342
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7557,7 +7557,7 @@ EndChar
 
 StartChar: uni0145
 Encoding: 325 325 343
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7565,7 +7565,7 @@ EndChar
 
 StartChar: uni0146
 Encoding: 326 326 344
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7573,7 +7573,7 @@ EndChar
 
 StartChar: Ncaron
 Encoding: 327 327 345
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7581,7 +7581,7 @@ EndChar
 
 StartChar: ncaron
 Encoding: 328 328 346
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7589,7 +7589,7 @@ EndChar
 
 StartChar: napostrophe
 Encoding: 329 329 347
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7597,7 +7597,7 @@ EndChar
 
 StartChar: Eng
 Encoding: 330 330 348
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7605,7 +7605,7 @@ EndChar
 
 StartChar: eng
 Encoding: 331 331 349
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7613,7 +7613,7 @@ EndChar
 
 StartChar: Omacron
 Encoding: 332 332 350
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7621,7 +7621,7 @@ EndChar
 
 StartChar: omacron
 Encoding: 333 333 351
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7629,7 +7629,7 @@ EndChar
 
 StartChar: Obreve
 Encoding: 334 334 352
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7637,7 +7637,7 @@ EndChar
 
 StartChar: obreve
 Encoding: 335 335 353
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7645,7 +7645,7 @@ EndChar
 
 StartChar: Ohungarumlaut
 Encoding: 336 336 354
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7653,7 +7653,7 @@ EndChar
 
 StartChar: ohungarumlaut
 Encoding: 337 337 355
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7661,7 +7661,7 @@ EndChar
 
 StartChar: Racute
 Encoding: 340 340 356
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7669,7 +7669,7 @@ EndChar
 
 StartChar: racute
 Encoding: 341 341 357
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7677,7 +7677,7 @@ EndChar
 
 StartChar: uni0156
 Encoding: 342 342 358
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7685,7 +7685,7 @@ EndChar
 
 StartChar: uni0157
 Encoding: 343 343 359
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7693,7 +7693,7 @@ EndChar
 
 StartChar: Rcaron
 Encoding: 344 344 360
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7701,7 +7701,7 @@ EndChar
 
 StartChar: rcaron
 Encoding: 345 345 361
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7709,7 +7709,7 @@ EndChar
 
 StartChar: Sacute
 Encoding: 346 346 362
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7717,7 +7717,7 @@ EndChar
 
 StartChar: sacute
 Encoding: 347 347 363
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7725,7 +7725,7 @@ EndChar
 
 StartChar: Scircumflex
 Encoding: 348 348 364
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7733,7 +7733,7 @@ EndChar
 
 StartChar: scircumflex
 Encoding: 349 349 365
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7741,7 +7741,7 @@ EndChar
 
 StartChar: Scedilla
 Encoding: 350 350 366
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7749,7 +7749,7 @@ EndChar
 
 StartChar: scedilla
 Encoding: 351 351 367
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7757,7 +7757,7 @@ EndChar
 
 StartChar: uni0162
 Encoding: 354 354 368
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7765,7 +7765,7 @@ EndChar
 
 StartChar: uni0163
 Encoding: 355 355 369
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7773,7 +7773,7 @@ EndChar
 
 StartChar: Tcaron
 Encoding: 356 356 370
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7781,7 +7781,7 @@ EndChar
 
 StartChar: tcaron
 Encoding: 357 357 371
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7789,7 +7789,7 @@ EndChar
 
 StartChar: Tbar
 Encoding: 358 358 372
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7797,7 +7797,7 @@ EndChar
 
 StartChar: tbar
 Encoding: 359 359 373
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7805,7 +7805,7 @@ EndChar
 
 StartChar: Utilde
 Encoding: 360 360 374
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7813,7 +7813,7 @@ EndChar
 
 StartChar: utilde
 Encoding: 361 361 375
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7821,7 +7821,7 @@ EndChar
 
 StartChar: Umacron
 Encoding: 362 362 376
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7829,7 +7829,7 @@ EndChar
 
 StartChar: umacron
 Encoding: 363 363 377
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7837,7 +7837,7 @@ EndChar
 
 StartChar: Ubreve
 Encoding: 364 364 378
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7845,7 +7845,7 @@ EndChar
 
 StartChar: ubreve
 Encoding: 365 365 379
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7853,7 +7853,7 @@ EndChar
 
 StartChar: Uring
 Encoding: 366 366 380
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7861,7 +7861,7 @@ EndChar
 
 StartChar: uring
 Encoding: 367 367 381
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7869,7 +7869,7 @@ EndChar
 
 StartChar: Uhungarumlaut
 Encoding: 368 368 382
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7877,7 +7877,7 @@ EndChar
 
 StartChar: uhungarumlaut
 Encoding: 369 369 383
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7885,7 +7885,7 @@ EndChar
 
 StartChar: Uogonek
 Encoding: 370 370 384
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7893,7 +7893,7 @@ EndChar
 
 StartChar: uogonek
 Encoding: 371 371 385
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7901,7 +7901,7 @@ EndChar
 
 StartChar: Wcircumflex
 Encoding: 372 372 386
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7909,7 +7909,7 @@ EndChar
 
 StartChar: wcircumflex
 Encoding: 373 373 387
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7917,7 +7917,7 @@ EndChar
 
 StartChar: Ycircumflex
 Encoding: 374 374 388
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7925,7 +7925,7 @@ EndChar
 
 StartChar: ycircumflex
 Encoding: 375 375 389
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7933,7 +7933,7 @@ EndChar
 
 StartChar: Zacute
 Encoding: 377 377 390
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7941,7 +7941,7 @@ EndChar
 
 StartChar: zacute
 Encoding: 378 378 391
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7949,7 +7949,7 @@ EndChar
 
 StartChar: Zdotaccent
 Encoding: 379 379 392
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7957,7 +7957,7 @@ EndChar
 
 StartChar: zdotaccent
 Encoding: 380 380 393
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7965,7 +7965,7 @@ EndChar
 
 StartChar: longs
 Encoding: 383 383 394
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7973,7 +7973,7 @@ EndChar
 
 StartChar: uni0180
 Encoding: 384 384 395
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7981,7 +7981,7 @@ EndChar
 
 StartChar: uni0181
 Encoding: 385 385 396
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7989,7 +7989,7 @@ EndChar
 
 StartChar: uni0182
 Encoding: 386 386 397
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -7997,7 +7997,7 @@ EndChar
 
 StartChar: uni0183
 Encoding: 387 387 398
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -8005,7 +8005,7 @@ EndChar
 
 StartChar: uni0184
 Encoding: 388 388 399
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -8013,7 +8013,7 @@ EndChar
 
 StartChar: uni018B
 Encoding: 395 395 400
-Width: 575
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -8029,7 +8029,7 @@ EndChar
 
 StartChar: pi
 Encoding: 960 960 402
-Width: 574
+Width: 576
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -11883,7 +11883,7 @@ LayerCount: 2
 EndChar
 EndChars
 BitmapFont: 10 547 8 2 1
-BDFChar: 0 65536 6 1 5 0 8 11
+BDFChar: 0 65536 4 1 5 0 8 11
 pkX`^LkpkCp](9o
 BDFChar: 1 0 6 0 0 0 0 0
 z
@@ -11957,9 +11957,9 @@ BDFChar: 35 34 6 1 4 5 6 0
 d*Mam
 BDFChar: 36 35 6 0 5 1 5 0
 B`)QABE/#4
-BDFChar: 37 36 6 0 5 -1 5 0
+BDFChar: 37 36 4 0 5 -1 5 0
 0R1BX%!XH+
-BDFChar: 38 37 6 1 4 1 5 0
+BDFChar: 38 37 4 1 4 1 5 0
 O>((XO8o7\
 BDFChar: 39 38 6 1 5 0 6 0
 0OS:%d*QG+
@@ -11981,25 +11981,25 @@ BDFChar: 47 46 6 2 3 0 1 0
 ^q]pM
 BDFChar: 48 47 6 1 5 -1 6 0
 (`4q\?spdc
-BDFChar: 49 48 6 1 4 0 5 0
+BDFChar: 49 48 4 1 4 0 5 0
 @*nDicsQhR
-BDFChar: 50 49 6 1 3 0 5 0
+BDFChar: 50 49 4 1 3 0 5 0
 @,PF#?sis7
-BDFChar: 51 50 6 1 4 0 5 0
+BDFChar: 51 50 4 1 4 0 5 0
 @'D=m_!h=(
-BDFChar: 52 51 6 1 4 0 5 0
+BDFChar: 52 51 4 1 4 0 5 0
 n1\6(0]2p2
-BDFChar: 53 52 6 1 4 0 5 0
+BDFChar: 53 52 4 1 4 0 5 0
 &28(-n1XhB
-BDFChar: 54 53 6 1 4 0 5 0
+BDFChar: 54 53 4 1 4 0 5 0
 nA*s90]2p2
-BDFChar: 55 54 6 1 4 0 5 0
+BDFChar: 55 54 4 1 4 0 5 0
 @)1^IcsQhR
-BDFChar: 56 55 6 1 4 0 5 0
+BDFChar: 56 55 4 1 4 0 5 0
 n1ZP(^q]pM
-BDFChar: 57 56 6 1 4 0 5 0
+BDFChar: 57 56 4 1 4 0 5 0
 @*i<.csQhR
-BDFChar: 58 57 6 1 4 0 5 0
+BDFChar: 58 57 4 1 4 0 5 0
 @'HkS0OOk\
 BDFChar: 59 58 6 2 3 1 3 0
 ^];.M
@@ -12015,57 +12015,57 @@ BDFChar: 64 63 6 0 4 -1 5 0
 E0qIr0E<d,
 BDFChar: 65 64 6 1 4 -1 6 0
 @*nDid."hY
-BDFChar: 66 65 6 1 4 0 5 0
+BDFChar: 66 65 4 1 4 0 5 0
 @*m9id*Mam
-BDFChar: 67 66 6 1 4 0 5 0
+BDFChar: 67 66 4 1 4 0 5 0
 i6^E/d,4m(
-BDFChar: 68 67 6 1 4 0 5 0
+BDFChar: 68 67 4 1 4 0 5 0
 E599)^i08R
-BDFChar: 69 68 6 1 4 0 5 0
+BDFChar: 69 68 4 1 4 0 5 0
 i6]itd,4m(
-BDFChar: 70 69 6 1 4 0 5 0
+BDFChar: 70 69 4 1 4 0 5 0
 nA*tt_!h=(
-BDFChar: 71 70 6 1 4 0 5 0
+BDFChar: 71 70 4 1 4 0 5 0
 nA*tt^q]pM
-BDFChar: 72 71 6 1 4 0 5 0
+BDFChar: 72 71 4 1 4 0 5 0
 E5999cu8sb
-BDFChar: 73 72 6 1 4 0 5 0
+BDFChar: 73 72 4 1 4 0 5 0
 d*U//d*Mam
-BDFChar: 74 73 6 2 3 0 5 0
+BDFChar: 74 73 4 2 3 0 5 0
 ^qdb$^q]pM
-BDFChar: 75 74 6 1 4 0 5 0
+BDFChar: 75 74 4 1 4 0 5 0
 0JG170]2p2
-BDFChar: 76 75 6 1 5 0 5 0
+BDFChar: 76 75 4 1 5 0 5 0
 aO&l'd)Z1e
-BDFChar: 77 76 6 1 4 0 5 0
+BDFChar: 77 76 4 1 4 0 5 0
 ^qdb$_!h=(
-BDFChar: 78 77 6 0 5 0 5 0
+BDFChar: 78 77 4 0 5 0 5 0
 m*sP'`5DWU
-BDFChar: 79 78 6 1 5 0 5 0
+BDFChar: 79 78 4 1 5 0 5 0
 aN3StaN+>]
-BDFChar: 80 79 6 1 4 0 5 0
+BDFChar: 80 79 4 1 4 0 5 0
 @*m9IcsQhR
-BDFChar: 81 80 6 1 4 0 5 0
+BDFChar: 81 80 4 1 4 0 5 0
 i6]j/^q]pM
-BDFChar: 82 81 6 1 4 -1 5 0
+BDFChar: 82 81 4 1 4 -1 5 0
 @*m9IcsSO-
-BDFChar: 83 82 6 1 4 0 5 0
+BDFChar: 83 82 4 1 4 0 5 0
 i6]j/i6VH(
-BDFChar: 84 83 6 1 4 0 5 0
+BDFChar: 84 83 4 1 4 0 5 0
 E55j80]2p2
-BDFChar: 85 84 6 0 5 0 5 0
+BDFChar: 85 84 4 0 5 0 5 0
 r%KfY0JEJ,
-BDFChar: 86 85 6 1 4 0 5 0
+BDFChar: 86 85 4 1 4 0 5 0
 d*U.dcu8sb
-BDFChar: 87 86 6 0 4 0 5 0
+BDFChar: 87 86 4 0 4 0 5 0
 aN2HDE*rYG
-BDFChar: 88 87 6 0 5 0 5 0
+BDFChar: 88 87 4 0 5 0 5 0
 `5KUDe9Crn
-BDFChar: 89 88 6 0 4 0 5 0
+BDFChar: 89 88 4 0 4 0 5 0
 aN/=>R$[jR
-BDFChar: 90 89 6 0 5 0 5 0
+BDFChar: 90 89 4 0 5 0 5 0
 `5H=C0JEJ,
-BDFChar: 91 90 6 1 4 0 5 0
+BDFChar: 91 90 4 1 4 0 5 0
 n1\7c_!h=(
 BDFChar: 92 91 6 1 3 0 6 0
 i5!.D^qek.
@@ -12079,57 +12079,57 @@ BDFChar: 96 95 6 1 5 -1 -1 0
 p](9o
 BDFChar: 97 96 6 1 3 4 6 0
 ^qa=X
-BDFChar: 98 97 6 1 5 0 4 0
+BDFChar: 98 97 4 1 5 0 4 0
 E3QRNBE/#4
-BDFChar: 99 98 6 1 4 0 6 0
+BDFChar: 99 98 4 1 4 0 6 0
 ^qemTd*U\N
-BDFChar: 100 99 6 1 4 0 4 0
+BDFChar: 100 99 4 1 4 0 4 0
 E599)Du]k<
-BDFChar: 101 100 6 1 4 0 6 0
+BDFChar: 101 100 4 1 4 0 6 0
 0JIIMYcr'H
-BDFChar: 102 101 6 1 4 0 4 0
+BDFChar: 102 101 4 1 4 0 4 0
 @*nDYDu]k<
-BDFChar: 103 102 6 1 4 0 6 0
+BDFChar: 103 102 4 1 4 0 6 0
 E5:tY^qd_c
-BDFChar: 104 103 6 1 4 -2 4 0
+BDFChar: 104 103 4 1 4 -2 4 0
 E3QRNE%p2M
-BDFChar: 105 104 6 1 4 0 6 0
+BDFChar: 105 104 4 1 4 0 6 0
 ^qemTd*U,>
-BDFChar: 106 105 6 2 3 0 6 0
+BDFChar: 106 105 4 2 3 0 6 0
 ^];0c^qd_c
-BDFChar: 107 106 6 1 3 -1 6 0
+BDFChar: 107 106 4 1 3 -1 6 0
 ?iXSB?smBX
-BDFChar: 108 107 6 1 5 0 6 0
+BDFChar: 108 107 4 1 5 0 6 0
 ^qe%<i6]OF
-BDFChar: 109 108 6 1 4 0 6 0
+BDFChar: 109 108 4 1 4 0 6 0
 ^qdb$^qamh
-BDFChar: 110 109 6 0 5 0 4 0
+BDFChar: 110 109 4 0 5 0 4 0
 psdgC_uKc;
-BDFChar: 111 110 6 1 4 0 4 0
+BDFChar: 111 110 4 1 4 0 4 0
 i6]itci=%G
-BDFChar: 112 111 6 1 4 0 4 0
+BDFChar: 112 111 4 1 4 0 4 0
 @*m9I?iU0,
-BDFChar: 113 112 6 1 4 -2 4 0
+BDFChar: 113 112 4 1 4 -2 4 0
 i6]iti5!,.
-BDFChar: 114 113 6 1 4 -2 4 0
+BDFChar: 114 113 4 1 4 -2 4 0
 E3QRNE%isG
-BDFChar: 115 114 6 1 4 0 4 0
+BDFChar: 115 114 4 1 4 0 4 0
 E599)^]4?7
-BDFChar: 116 115 6 1 4 0 4 0
+BDFChar: 116 115 4 1 4 0 4 0
 E55j8huE`W
-BDFChar: 117 116 6 1 4 0 6 0
+BDFChar: 117 116 4 1 4 0 6 0
 ^qfHT^qamh
-BDFChar: 118 117 6 1 4 0 4 0
+BDFChar: 118 117 4 1 4 0 4 0
 Yct@9Du]k<
-BDFChar: 119 118 6 0 4 0 4 0
+BDFChar: 119 118 4 0 4 0 4 0
 aN2GADu]k<
-BDFChar: 120 119 6 0 5 0 4 0
+BDFChar: 120 119 4 0 5 0 4 0
 `73;dHiO-H
-BDFChar: 121 120 6 1 4 0 4 0
+BDFChar: 121 120 4 1 4 0 4 0
 d*Q1)YQ+Y'
-BDFChar: 122 121 6 1 4 -1 4 0
+BDFChar: 122 121 4 1 4 -1 4 0
 Yct?N0OOk\
-BDFChar: 123 122 6 1 4 0 4 0
+BDFChar: 123 122 4 1 4 0 4 0
 n1\7cn,NFg
 BDFChar: 124 123 6 1 4 0 6 0
 0OS;(?skYg
@@ -12217,11 +12217,11 @@ BDFChar: 165 8364 6 0 0 0 0 0
 J,fQL
 BDFChar: 166 165 6 0 0 0 0 0
 z
-BDFChar: 167 352 6 0 0 0 0 0
+BDFChar: 167 352 4 0 0 0 0 0
 z
 BDFChar: 168 167 6 0 0 0 0 0
 z
-BDFChar: 169 353 6 0 0 0 0 0
+BDFChar: 169 353 4 0 0 0 0 0
 z
 BDFChar: 170 169 6 0 0 0 0 0
 z
@@ -12245,7 +12245,7 @@ BDFChar: 179 178 6 0 0 0 0 0
 z
 BDFChar: 180 179 6 0 0 0 0 0
 z
-BDFChar: 181 381 6 0 0 0 0 0
+BDFChar: 181 381 4 0 0 0 0 0
 z
 BDFChar: 182 181 6 0 0 0 0 0
 z
@@ -12253,7 +12253,7 @@ BDFChar: 183 182 6 0 0 0 0 0
 z
 BDFChar: 184 183 6 0 0 0 0 0
 z
-BDFChar: 185 382 6 0 0 0 0 0
+BDFChar: 185 382 4 0 0 0 0 0
 z
 BDFChar: 186 185 6 0 0 0 0 0
 z
@@ -12261,141 +12261,141 @@ BDFChar: 187 186 6 0 0 0 0 0
 z
 BDFChar: 188 187 6 0 0 0 0 0
 z
-BDFChar: 189 338 6 0 0 0 0 0
+BDFChar: 189 338 4 0 0 0 0 0
 z
-BDFChar: 190 339 6 0 0 0 0 0
+BDFChar: 190 339 4 0 0 0 0 0
 z
-BDFChar: 191 376 6 0 0 0 0 0
+BDFChar: 191 376 4 0 0 0 0 0
 z
 BDFChar: 192 191 6 1 4 -1 5 0
 +93NLJ<4.=
-BDFChar: 193 192 6 1 4 0 7 0
+BDFChar: 193 192 4 1 4 0 7 0
 5TjI]d.#E/
-BDFChar: 194 193 6 1 4 0 7 0
+BDFChar: 194 193 4 1 4 0 7 0
 +@'>]d.#E/
-BDFChar: 195 194 6 1 4 0 7 0
+BDFChar: 195 194 4 1 4 0 7 0
 @$"dCd.#E/
-BDFChar: 196 195 6 1 4 0 7 0
+BDFChar: 196 195 4 1 4 0 7 0
 :nV4Cd.#E/
-BDFChar: 197 196 6 1 4 0 7 0
+BDFChar: 197 196 4 1 4 0 7 0
 :]OnMd.#E/
-BDFChar: 198 197 6 1 4 0 7 0
+BDFChar: 198 197 4 1 4 0 7 0
 +Aa1gd.#E/
-BDFChar: 199 198 6 0 4 0 5 0
+BDFChar: 199 198 4 0 4 0 5 0
 Gd+FIYdaZ5
-BDFChar: 200 199 6 1 4 -2 5 0
+BDFChar: 200 199 4 1 4 -2 5 0
 E599)^i1D]
-BDFChar: 201 200 6 1 4 0 7 0
+BDFChar: 201 200 4 1 4 0 7 0
 5ToR3i5!.t
-BDFChar: 202 201 6 1 4 0 7 0
+BDFChar: 202 201 4 1 4 0 7 0
 +@,G3i5!.t
-BDFChar: 203 202 6 1 4 0 7 0
+BDFChar: 203 202 4 1 4 0 7 0
 @$'lni5!.t
-BDFChar: 204 203 6 1 4 0 7 0
+BDFChar: 204 203 4 1 4 0 7 0
 :]U"#i5!.t
-BDFChar: 205 204 6 2 3 0 7 0
+BDFChar: 205 204 4 2 3 0 7 0
 J3X+M^qdb$
-BDFChar: 206 205 6 2 3 0 7 0
+BDFChar: 206 205 4 2 3 0 7 0
 5_&jM^qdb$
-BDFChar: 207 206 6 1 4 0 7 0
+BDFChar: 207 206 4 1 4 0 7 0
 @#t@r?smAM
-BDFChar: 208 207 6 2 4 0 7 0
+BDFChar: 208 207 4 2 4 0 7 0
 TE)dC^qdb$
-BDFChar: 209 208 6 0 5 0 5 0
+BDFChar: 209 208 4 0 5 0 5 0
 G\$GWA9\(S
-BDFChar: 210 209 6 1 5 0 7 0
+BDFChar: 210 209 4 1 5 0 7 0
 -rA"+kh*tt
-BDFChar: 211 210 6 1 4 0 7 0
+BDFChar: 211 210 4 1 4 0 7 0
 5TjI]d*U-I
-BDFChar: 212 211 6 1 4 0 7 0
+BDFChar: 212 211 4 1 4 0 7 0
 +@'>]d*U-I
-BDFChar: 213 212 6 1 4 0 7 0
+BDFChar: 213 212 4 1 4 0 7 0
 @$"dCd*U-I
-BDFChar: 214 213 6 1 4 0 7 0
+BDFChar: 214 213 4 1 4 0 7 0
 :nV4Cd*U-I
-BDFChar: 215 214 6 1 4 0 7 0
+BDFChar: 215 214 4 1 4 0 7 0
 :]OnMd*U-I
-BDFChar: 216 215 6 2 4 2 4 0
+BDFChar: 216 215 4 2 4 2 4 0
 TKo.M
-BDFChar: 217 216 6 0 5 0 5 0
+BDFChar: 217 216 4 0 5 0 5 0
 1h_,IBWqI:
-BDFChar: 218 217 6 1 4 0 7 0
+BDFChar: 218 217 4 1 4 0 7 0
 5TnG#d*U-Y
-BDFChar: 219 218 6 1 4 0 7 0
+BDFChar: 219 218 4 1 4 0 7 0
 +@+<#d*U-Y
-BDFChar: 220 219 6 1 4 0 7 0
+BDFChar: 220 219 4 1 4 0 7 0
 @$&a^d*U-Y
-BDFChar: 221 220 6 1 4 0 7 0
+BDFChar: 221 220 4 1 4 0 7 0
 :]Skhd*U-Y
-BDFChar: 222 221 6 0 5 0 7 0
+BDFChar: 222 221 4 0 5 0 7 0
 #S=qmBJ;+o
-BDFChar: 223 222 6 1 4 -1 6 0
+BDFChar: 223 222 4 1 4 -1 6 0
 ^qemTd,;^T
-BDFChar: 224 223 6 1 4 -1 6 0
+BDFChar: 224 223 4 1 4 -1 6 0
 @,Ttid*U^d
-BDFChar: 225 224 6 1 5 0 7 0
+BDFChar: 225 224 4 1 5 0 7 0
 5Tg&GYct?F
-BDFChar: 226 225 6 1 5 0 7 0
+BDFChar: 226 225 4 1 5 0 7 0
 +@#pGYct?F
-BDFChar: 227 226 6 1 5 0 7 0
+BDFChar: 227 226 4 1 5 0 7 0
 @#tA-Yct?F
-BDFChar: 228 227 6 1 5 0 7 0
+BDFChar: 228 227 4 1 5 0 7 0
 :nRf-Yct?F
-BDFChar: 229 228 6 1 5 0 6 0
+BDFChar: 229 228 4 1 5 0 6 0
 :]PI=Ycqd@
-BDFChar: 230 229 6 1 5 0 7 0
+BDFChar: 230 229 4 1 5 0 7 0
 +Aa2"Yct?F
-BDFChar: 231 230 6 0 5 0 4 0
+BDFChar: 231 230 4 0 5 0 4 0
 GVjfPC]FG8
-BDFChar: 232 231 6 1 4 -2 4 0
+BDFChar: 232 231 4 1 4 -2 4 0
 E599)E$.CG
-BDFChar: 233 232 6 1 4 0 7 0
+BDFChar: 233 232 4 1 4 0 7 0
 5Tg&7d."hi
-BDFChar: 234 233 6 1 4 0 7 0
+BDFChar: 234 233 4 1 4 0 7 0
 +@#p7d."hi
-BDFChar: 235 234 6 1 4 0 7 0
+BDFChar: 235 234 4 1 4 0 7 0
 @#t@rd."hi
-BDFChar: 236 235 6 1 4 0 6 0
+BDFChar: 236 235 4 1 4 0 6 0
 :]OnMnA&uC
-BDFChar: 237 236 6 2 3 0 7 0
+BDFChar: 237 236 4 2 3 0 7 0
 J3X+M^qdb$
-BDFChar: 238 237 6 2 3 0 7 0
+BDFChar: 238 237 4 2 3 0 7 0
 5_&jM^qdb$
-BDFChar: 239 238 6 1 4 0 7 0
+BDFChar: 239 238 4 1 4 0 7 0
 @#t@r?smAM
-BDFChar: 240 239 6 1 4 0 6 0
+BDFChar: 240 239 4 1 4 0 6 0
 O8rZr?sm@B
-BDFChar: 241 240 6 0 4 0 6 0
+BDFChar: 241 240 4 0 4 0 6 0
 +;d'TGaNFM
-BDFChar: 242 241 6 1 4 0 7 0
+BDFChar: 242 241 4 1 4 0 7 0
 :nRgHd*U.d
-BDFChar: 243 242 6 1 4 0 7 0
+BDFChar: 243 242 4 1 4 0 7 0
 5Tg&7d*U-I
-BDFChar: 244 243 6 1 4 0 7 0
+BDFChar: 244 243 4 1 4 0 7 0
 +@#p7d*U-I
-BDFChar: 245 244 6 1 4 0 7 0
+BDFChar: 245 244 4 1 4 0 7 0
 @#t@rd*U-I
-BDFChar: 246 245 6 1 4 0 7 0
+BDFChar: 246 245 4 1 4 0 7 0
 :nRerd*U-I
-BDFChar: 247 246 6 1 4 0 6 0
+BDFChar: 247 246 4 1 4 0 6 0
 :]OnMd*Q/#
-BDFChar: 248 247 6 1 5 1 5 0
+BDFChar: 248 247 4 1 5 1 5 0
 +9;0:+92BA
-BDFChar: 249 248 6 0 5 0 4 0
+BDFChar: 249 248 4 0 5 0 4 0
 1h_,IYQ+Y'
-BDFChar: 250 249 6 1 4 0 7 0
+BDFChar: 250 249 4 1 4 0 7 0
 5Tg'2Yct?N
-BDFChar: 251 250 6 1 4 0 7 0
+BDFChar: 251 250 4 1 4 0 7 0
 +@#q2Yct?N
-BDFChar: 252 251 6 1 4 0 7 0
+BDFChar: 252 251 4 1 4 0 7 0
 @#tAmYct?N
-BDFChar: 253 252 6 1 4 0 6 0
+BDFChar: 253 252 4 1 4 0 6 0
 TE)4#Ycr'H
-BDFChar: 254 253 6 1 4 -1 7 0
+BDFChar: 254 253 4 1 4 -1 7 0
 +@#q2Ycr(#?iU0,
-BDFChar: 255 254 6 1 4 -1 5 0
+BDFChar: 255 254 4 1 4 -1 5 0
 ^qemTi5!,.
-BDFChar: 256 255 6 1 4 -1 6 0
+BDFChar: 256 255 4 1 4 -1 6 0
 TE)4#Y]):(
 BDFChar: 257 164 6 0 5 0 5 0
 KQp$YG_?%s
@@ -12413,281 +12413,281 @@ BDFChar: 263 189 6 0 5 0 7 0
 5eooe3(/QB
 BDFChar: 264 190 6 0 5 -1 7 0
 i*[u&-s3E1#QOi)
-BDFChar: 265 396 6 0 0 0 0 0
+BDFChar: 265 396 4 0 0 0 0 0
 z
-BDFChar: 266 256 6 0 0 0 0 0
+BDFChar: 266 256 4 0 0 0 0 0
 z
-BDFChar: 267 257 6 0 0 0 0 0
+BDFChar: 267 257 4 0 0 0 0 0
 z
-BDFChar: 268 258 6 0 0 0 0 0
+BDFChar: 268 258 4 0 0 0 0 0
 z
-BDFChar: 269 259 6 0 0 0 0 0
+BDFChar: 269 259 4 0 0 0 0 0
 z
-BDFChar: 270 260 6 0 0 0 0 0
+BDFChar: 270 260 4 0 0 0 0 0
 z
-BDFChar: 271 389 6 0 0 0 0 0
+BDFChar: 271 389 4 0 0 0 0 0
 z
-BDFChar: 272 390 6 0 0 0 0 0
+BDFChar: 272 390 4 0 0 0 0 0
 z
-BDFChar: 273 391 6 0 0 0 0 0
+BDFChar: 273 391 4 0 0 0 0 0
 z
-BDFChar: 274 392 6 0 0 0 0 0
+BDFChar: 274 392 4 0 0 0 0 0
 z
-BDFChar: 275 393 6 0 0 0 0 0
+BDFChar: 275 393 4 0 0 0 0 0
 z
-BDFChar: 276 394 6 0 0 0 0 0
+BDFChar: 276 394 4 0 0 0 0 0
 z
-BDFChar: 277 398 6 0 0 0 0 0
+BDFChar: 277 398 4 0 0 0 0 0
 z
-BDFChar: 278 397 6 0 0 0 0 0
+BDFChar: 278 397 4 0 0 0 0 0
 z
-BDFChar: 279 261 6 0 0 0 0 0
+BDFChar: 279 261 4 0 0 0 0 0
 z
-BDFChar: 280 262 6 0 0 0 0 0
+BDFChar: 280 262 4 0 0 0 0 0
 z
-BDFChar: 281 263 6 0 0 0 0 0
+BDFChar: 281 263 4 0 0 0 0 0
 z
-BDFChar: 282 264 6 0 0 0 0 0
+BDFChar: 282 264 4 0 0 0 0 0
 z
-BDFChar: 283 265 6 0 0 0 0 0
+BDFChar: 283 265 4 0 0 0 0 0
 z
-BDFChar: 284 266 6 0 0 0 0 0
+BDFChar: 284 266 4 0 0 0 0 0
 z
-BDFChar: 285 267 6 0 0 0 0 0
+BDFChar: 285 267 4 0 0 0 0 0
 z
-BDFChar: 286 268 6 0 0 0 0 0
+BDFChar: 286 268 4 0 0 0 0 0
 z
-BDFChar: 287 269 6 0 0 0 0 0
+BDFChar: 287 269 4 0 0 0 0 0
 z
-BDFChar: 288 270 6 0 0 0 0 0
+BDFChar: 288 270 4 0 0 0 0 0
 z
-BDFChar: 289 271 6 0 0 0 0 0
+BDFChar: 289 271 4 0 0 0 0 0
 z
-BDFChar: 290 272 6 0 0 0 0 0
+BDFChar: 290 272 4 0 0 0 0 0
 z
-BDFChar: 291 273 6 0 0 0 0 0
+BDFChar: 291 273 4 0 0 0 0 0
 z
-BDFChar: 292 274 6 0 0 0 0 0
+BDFChar: 292 274 4 0 0 0 0 0
 z
-BDFChar: 293 275 6 0 0 0 0 0
+BDFChar: 293 275 4 0 0 0 0 0
 z
-BDFChar: 294 276 6 0 0 0 0 0
+BDFChar: 294 276 4 0 0 0 0 0
 z
-BDFChar: 295 277 6 0 0 0 0 0
+BDFChar: 295 277 4 0 0 0 0 0
 z
-BDFChar: 296 278 6 0 0 0 0 0
+BDFChar: 296 278 4 0 0 0 0 0
 z
-BDFChar: 297 279 6 0 0 0 0 0
+BDFChar: 297 279 4 0 0 0 0 0
 z
-BDFChar: 298 280 6 0 0 0 0 0
+BDFChar: 298 280 4 0 0 0 0 0
 z
-BDFChar: 299 281 6 0 0 0 0 0
+BDFChar: 299 281 4 0 0 0 0 0
 z
-BDFChar: 300 282 6 0 0 0 0 0
+BDFChar: 300 282 4 0 0 0 0 0
 z
-BDFChar: 301 283 6 0 0 0 0 0
+BDFChar: 301 283 4 0 0 0 0 0
 z
-BDFChar: 302 284 6 0 0 0 0 0
+BDFChar: 302 284 4 0 0 0 0 0
 z
-BDFChar: 303 285 6 0 0 0 0 0
+BDFChar: 303 285 4 0 0 0 0 0
 z
-BDFChar: 304 286 6 0 0 0 0 0
+BDFChar: 304 286 4 0 0 0 0 0
 z
-BDFChar: 305 287 6 0 0 0 0 0
+BDFChar: 305 287 4 0 0 0 0 0
 z
-BDFChar: 306 288 6 0 0 0 0 0
+BDFChar: 306 288 4 0 0 0 0 0
 z
-BDFChar: 307 289 6 0 0 0 0 0
+BDFChar: 307 289 4 0 0 0 0 0
 z
-BDFChar: 308 290 6 0 0 0 0 0
+BDFChar: 308 290 4 0 0 0 0 0
 z
-BDFChar: 309 291 6 0 0 0 0 0
+BDFChar: 309 291 4 0 0 0 0 0
 z
-BDFChar: 310 292 6 0 0 0 0 0
+BDFChar: 310 292 4 0 0 0 0 0
 z
-BDFChar: 311 293 6 0 0 0 0 0
+BDFChar: 311 293 4 0 0 0 0 0
 z
-BDFChar: 312 294 6 0 0 0 0 0
+BDFChar: 312 294 4 0 0 0 0 0
 z
-BDFChar: 313 295 6 0 0 0 0 0
+BDFChar: 313 295 4 0 0 0 0 0
 z
-BDFChar: 314 296 6 0 0 0 0 0
+BDFChar: 314 296 4 0 0 0 0 0
 z
-BDFChar: 315 297 6 0 0 0 0 0
+BDFChar: 315 297 4 0 0 0 0 0
 z
-BDFChar: 316 298 6 0 0 0 0 0
+BDFChar: 316 298 4 0 0 0 0 0
 z
-BDFChar: 317 299 6 0 0 0 0 0
+BDFChar: 317 299 4 0 0 0 0 0
 z
-BDFChar: 318 300 6 0 0 0 0 0
+BDFChar: 318 300 4 0 0 0 0 0
 z
-BDFChar: 319 301 6 0 0 0 0 0
+BDFChar: 319 301 4 0 0 0 0 0
 z
-BDFChar: 320 302 6 0 0 0 0 0
+BDFChar: 320 302 4 0 0 0 0 0
 z
-BDFChar: 321 303 6 0 0 0 0 0
+BDFChar: 321 303 4 0 0 0 0 0
 z
-BDFChar: 322 304 6 0 0 0 0 0
+BDFChar: 322 304 4 0 0 0 0 0
 z
-BDFChar: 323 305 6 0 0 0 0 0
+BDFChar: 323 305 4 0 0 0 0 0
 z
-BDFChar: 324 306 6 0 0 0 0 0
+BDFChar: 324 306 4 0 0 0 0 0
 z
-BDFChar: 325 307 6 0 0 0 0 0
+BDFChar: 325 307 4 0 0 0 0 0
 z
-BDFChar: 326 308 6 0 0 0 0 0
+BDFChar: 326 308 4 0 0 0 0 0
 z
-BDFChar: 327 309 6 0 0 0 0 0
+BDFChar: 327 309 4 0 0 0 0 0
 z
-BDFChar: 328 310 6 0 0 0 0 0
+BDFChar: 328 310 4 0 0 0 0 0
 z
-BDFChar: 329 311 6 0 0 0 0 0
+BDFChar: 329 311 4 0 0 0 0 0
 z
-BDFChar: 330 312 6 0 0 0 0 0
+BDFChar: 330 312 4 0 0 0 0 0
 z
-BDFChar: 331 313 6 0 0 0 0 0
+BDFChar: 331 313 4 0 0 0 0 0
 z
-BDFChar: 332 314 6 0 0 0 0 0
+BDFChar: 332 314 4 0 0 0 0 0
 z
-BDFChar: 333 315 6 0 0 0 0 0
+BDFChar: 333 315 4 0 0 0 0 0
 z
-BDFChar: 334 316 6 0 0 0 0 0
+BDFChar: 334 316 4 0 0 0 0 0
 z
-BDFChar: 335 317 6 0 0 0 0 0
+BDFChar: 335 317 4 0 0 0 0 0
 z
-BDFChar: 336 318 6 0 0 0 0 0
+BDFChar: 336 318 4 0 0 0 0 0
 z
-BDFChar: 337 319 6 0 0 0 0 0
+BDFChar: 337 319 4 0 0 0 0 0
 z
-BDFChar: 338 320 6 0 0 0 0 0
+BDFChar: 338 320 4 0 0 0 0 0
 z
-BDFChar: 339 321 6 0 0 0 0 0
+BDFChar: 339 321 4 0 0 0 0 0
 z
-BDFChar: 340 322 6 0 0 0 0 0
+BDFChar: 340 322 4 0 0 0 0 0
 z
-BDFChar: 341 323 6 0 0 0 0 0
+BDFChar: 341 323 4 0 0 0 0 0
 z
-BDFChar: 342 324 6 0 0 0 0 0
+BDFChar: 342 324 4 0 0 0 0 0
 z
-BDFChar: 343 325 6 0 0 0 0 0
+BDFChar: 343 325 4 0 0 0 0 0
 z
-BDFChar: 344 326 6 0 0 0 0 0
+BDFChar: 344 326 4 0 0 0 0 0
 z
-BDFChar: 345 327 6 0 0 0 0 0
+BDFChar: 345 327 4 0 0 0 0 0
 z
-BDFChar: 346 328 6 0 0 0 0 0
+BDFChar: 346 328 4 0 0 0 0 0
 z
-BDFChar: 347 329 6 0 0 0 0 0
+BDFChar: 347 329 4 0 0 0 0 0
 z
-BDFChar: 348 330 6 0 0 0 0 0
+BDFChar: 348 330 4 0 0 0 0 0
 z
-BDFChar: 349 331 6 0 0 0 0 0
+BDFChar: 349 331 4 0 0 0 0 0
 z
-BDFChar: 350 332 6 0 0 0 0 0
+BDFChar: 350 332 4 0 0 0 0 0
 z
-BDFChar: 351 333 6 0 0 0 0 0
+BDFChar: 351 333 4 0 0 0 0 0
 z
-BDFChar: 352 334 6 0 0 0 0 0
+BDFChar: 352 334 4 0 0 0 0 0
 z
-BDFChar: 353 335 6 0 0 0 0 0
+BDFChar: 353 335 4 0 0 0 0 0
 z
-BDFChar: 354 336 6 0 0 0 0 0
+BDFChar: 354 336 4 0 0 0 0 0
 z
-BDFChar: 355 337 6 0 0 0 0 0
+BDFChar: 355 337 4 0 0 0 0 0
 z
-BDFChar: 356 340 6 0 0 0 0 0
+BDFChar: 356 340 4 0 0 0 0 0
 z
-BDFChar: 357 341 6 0 0 0 0 0
+BDFChar: 357 341 4 0 0 0 0 0
 z
-BDFChar: 358 342 6 0 0 0 0 0
+BDFChar: 358 342 4 0 0 0 0 0
 z
-BDFChar: 359 343 6 0 0 0 0 0
+BDFChar: 359 343 4 0 0 0 0 0
 z
-BDFChar: 360 344 6 0 0 0 0 0
+BDFChar: 360 344 4 0 0 0 0 0
 z
-BDFChar: 361 345 6 0 0 0 0 0
+BDFChar: 361 345 4 0 0 0 0 0
 z
-BDFChar: 362 346 6 0 0 0 0 0
+BDFChar: 362 346 4 0 0 0 0 0
 z
-BDFChar: 363 347 6 0 0 0 0 0
+BDFChar: 363 347 4 0 0 0 0 0
 z
-BDFChar: 364 348 6 0 0 0 0 0
+BDFChar: 364 348 4 0 0 0 0 0
 z
-BDFChar: 365 349 6 0 0 0 0 0
+BDFChar: 365 349 4 0 0 0 0 0
 z
-BDFChar: 366 350 6 0 0 0 0 0
+BDFChar: 366 350 4 0 0 0 0 0
 z
-BDFChar: 367 351 6 0 0 0 0 0
+BDFChar: 367 351 4 0 0 0 0 0
 z
-BDFChar: 368 354 6 0 0 0 0 0
+BDFChar: 368 354 4 0 0 0 0 0
 z
-BDFChar: 369 355 6 0 0 0 0 0
+BDFChar: 369 355 4 0 0 0 0 0
 z
-BDFChar: 370 356 6 0 0 0 0 0
+BDFChar: 370 356 4 0 0 0 0 0
 z
-BDFChar: 371 357 6 0 0 0 0 0
+BDFChar: 371 357 4 0 0 0 0 0
 z
-BDFChar: 372 358 6 0 0 0 0 0
+BDFChar: 372 358 4 0 0 0 0 0
 z
-BDFChar: 373 359 6 0 0 0 0 0
+BDFChar: 373 359 4 0 0 0 0 0
 z
-BDFChar: 374 360 6 0 0 0 0 0
+BDFChar: 374 360 4 0 0 0 0 0
 z
-BDFChar: 375 361 6 0 0 0 0 0
+BDFChar: 375 361 4 0 0 0 0 0
 z
-BDFChar: 376 362 6 0 0 0 0 0
+BDFChar: 376 362 4 0 0 0 0 0
 z
-BDFChar: 377 363 6 0 0 0 0 0
+BDFChar: 377 363 4 0 0 0 0 0
 z
-BDFChar: 378 364 6 0 0 0 0 0
+BDFChar: 378 364 4 0 0 0 0 0
 z
-BDFChar: 379 365 6 0 0 0 0 0
+BDFChar: 379 365 4 0 0 0 0 0
 z
-BDFChar: 380 366 6 0 0 0 0 0
+BDFChar: 380 366 4 0 0 0 0 0
 z
-BDFChar: 381 367 6 0 0 0 0 0
+BDFChar: 381 367 4 0 0 0 0 0
 z
-BDFChar: 382 368 6 0 0 0 0 0
+BDFChar: 382 368 4 0 0 0 0 0
 z
-BDFChar: 383 369 6 0 0 0 0 0
+BDFChar: 383 369 4 0 0 0 0 0
 z
-BDFChar: 384 370 6 0 0 0 0 0
+BDFChar: 384 370 4 0 0 0 0 0
 z
-BDFChar: 385 371 6 0 0 0 0 0
+BDFChar: 385 371 4 0 0 0 0 0
 z
-BDFChar: 386 372 6 0 0 0 0 0
+BDFChar: 386 372 4 0 0 0 0 0
 z
-BDFChar: 387 373 6 0 0 0 0 0
+BDFChar: 387 373 4 0 0 0 0 0
 z
-BDFChar: 388 374 6 0 0 0 0 0
+BDFChar: 388 374 4 0 0 0 0 0
 z
-BDFChar: 389 375 6 0 0 0 0 0
+BDFChar: 389 375 4 0 0 0 0 0
 z
-BDFChar: 390 377 6 0 0 0 0 0
+BDFChar: 390 377 4 0 0 0 0 0
 z
-BDFChar: 391 378 6 0 0 0 0 0
+BDFChar: 391 378 4 0 0 0 0 0
 z
-BDFChar: 392 379 6 0 0 0 0 0
+BDFChar: 392 379 4 0 0 0 0 0
 z
-BDFChar: 393 380 6 0 0 0 0 0
+BDFChar: 393 380 4 0 0 0 0 0
 z
-BDFChar: 394 383 6 0 0 0 0 0
+BDFChar: 394 383 4 0 0 0 0 0
 z
-BDFChar: 395 384 6 0 0 0 0 0
+BDFChar: 395 384 4 0 0 0 0 0
 z
-BDFChar: 396 385 6 0 0 0 0 0
+BDFChar: 396 385 4 0 0 0 0 0
 z
-BDFChar: 397 386 6 0 0 0 0 0
+BDFChar: 397 386 4 0 0 0 0 0
 z
-BDFChar: 398 387 6 0 0 0 0 0
+BDFChar: 398 387 4 0 0 0 0 0
 z
-BDFChar: 399 388 6 0 0 0 0 0
+BDFChar: 399 388 4 0 0 0 0 0
 z
-BDFChar: 400 395 6 0 0 0 0 0
+BDFChar: 400 395 4 0 0 0 0 0
 z
 BDFChar: 401 65537 6 0 0 0 0 0
 z
-BDFChar: 402 960 6 0 4 0 4 0
+BDFChar: 402 960 4 0 4 0 4 0
 peXd`8,rVi
 BDFChar: 403 8593 6 1 5 0 6 0
 +E48%+<Vd,
